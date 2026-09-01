@@ -8,7 +8,7 @@ A command-line tool for flashing firmware onto SUPPORTED Qualcomm devices via ED
 - .NET Framework 4.5 or later
 - Git
 - Full STOCK firmware of your phone (not custom firmware)
-- A supported device [list](https://github.com/d224407/Qualcomm-Unbrick/blob/main/devices.txt)
+- A supported device ([list](https://github.com/d224407/Qualcomm-Unbrick/blob/main/devices.txt))
 
 ##  Installation
 
