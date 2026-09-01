@@ -30,4 +30,5 @@ Run the `edl_tool.bat` file; the script will automatically:
 ## Note
 
 - If the flash fail or disrupted don't panic, just replug (you don't even need to) and re-run the script, if you find any bugs please tell me
-- BE CAREFUL!!! NEVER LET YOUR PC DOWN!!! IF THE PC IS DOWN AND DOESNT RECOGNIZE THE PHONE, UNPLUG THE DEVICE IMMEDIATEL, TURN OF THE PC COMPLETELY AND GIVE IT A 30-SECONDS REST. After that check if the phone is cool again, then you can continue. What if you don't do this? Your hardware will die, that's it.
+- BE CAREFUL!!! NEVER LET YOUR PC DOWN AND MAKE SURE THE BATTERY IS OVER 50%!!! IF THE PC IS DOWN AND DOESNT RECOGNIZE THE PHONE, UNPLUG THE DEVICE IMMEDIATEL, TURN OF THE PC COMPLETELY AND GIVE IT A 30-SECONDS REST. After that check if the phone is warm or cool, if it's cool then you can continue. What if you don't do this? Your hardware will die, that's it.
+- Have a nice day!
