@@ -1,0 +1,21 @@
+# Supported devices
+
+| #  | Device name           | Codename | Chipset          |
+|----|-----------------------|----------|------------------|
+| 1  | Poco X3 NFC           | Surya    | Snapdragon 732G  |
+| 2  | Poco F4               | Munch    | Snapdragon 870   |
+| 3  | Xiaomi 12X            | Psyche   | Snapdragon 870   |
+| 4  | Xiaomi Pad 5 Pro      | Dagu     | Snapdragon 870   |
+| 5  | Xiaomi Pad 6          | Pipa     | Snapdragon 870   |
+| 6  | Mi 4S/4C              |Aqua/Libra| Snapdragon 808   |
+| 7  | Mi 9 Lite             | Pyxis    | Snapdragon 710   |
+| 8  | Mi 9 SE               | Grus     | Snapdragon 712   |
+| 9  | Mi 10T                | Apollo   | Snapdragon 865   |
+| 10 | Mi MIX 2S             | Polaris  | Snapdragon 845   |
+| 11 | Redmi Note 9S         | Curtana  | Snapdragon 720G  |
+| 12 | Redmi Note 10         | Mojito   | Snapdragon 678   |
+| 13 | Redmi Note 11         | Spes     | Snapdragon 662   |
+| 14 | Redmi Note 12 4G      | Topaz    | Snapdragon 685   |
+| 15 | Redmi 7               | Onclite  | Snapdragon 632   |
+| 16 | Redmi 7A              | Pine     | Snapdragon 439   |
+| 17 | Redmi 8               | Olive    | Snapdragon 439   |
