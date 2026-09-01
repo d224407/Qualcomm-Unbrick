@@ -18,11 +18,11 @@ Run the `edl_tool.bat` file; the script will automatically:
 3. Guide you through the process step-by-step
 
 ## How does this work?
-'''
+```bash
 ┌─────────────────────────────────────────────────────────────────┐
 │                 XIAOMI AUTHORIZATION BYPASS                     │
 └─────────────────────────────────────────────────────────────────┘
 
   Device requires            edl.exe sends             Device
   Xiaomi authorization  ──→  special XML command  ──→  accepts flashing
-'''
+```
